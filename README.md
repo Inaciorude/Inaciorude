@@ -1,7 +1,7 @@
 ### Hi there, i'm inácio junior 👋
 
 
-- 🔭 I’m currently working on html and CSS.
+- 🔭 I’m currently working on HTML, CSS and JavaScript.
 - 🌱 I’m currently learning full stack development.
 
 <div align="center">
